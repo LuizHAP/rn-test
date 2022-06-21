@@ -1,7 +1,7 @@
 {
-  "name": "react-native-typescript-boilerplate",
-  "version": "3.3.0",
-  "description": "React Native Template/Boilerplate for awesome applications, using Typescript with a lot of built-in ready features.",
+  "name": "rn-test",
+  "version": "0.0.1",
+  "description": "App RN Test",
   "dependencies": {
     "@freakycoder/react-native-bounceable": "^0.2.5",
     "@freakycoder/react-native-custom-text": "0.1.2",
